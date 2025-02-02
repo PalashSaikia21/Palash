@@ -3,3 +3,5 @@ File for Git post two
 adding more work
 
 edited in bug-fix again
+
+keep bugFix
